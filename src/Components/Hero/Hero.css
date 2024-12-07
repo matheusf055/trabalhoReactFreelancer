@@ -1,0 +1,99 @@
+  .hero {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .hero h1 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    margin-bottom: 2rem;
+  }
+  
+  .cards {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+.card {
+  background-color: #1b1e24;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 200px;
+  text-align: center;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.hero h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  margin-bottom: 2rem;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #1b1e24;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 200px;
+  text-align: center;
+}
+
+.card-image {
+  width: 40%; 
+  height: auto;
+  margin-left: 0%; 
+  margin-bottom: 1rem;
+}
+
+.icon-placeholder {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.card button {
+  margin-top: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.icon-placeholder {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+  
+.card button {
+  margin-top: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+  

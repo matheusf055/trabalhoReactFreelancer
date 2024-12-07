@@ -1,0 +1,22 @@
+.mission-values-section {
+  background-color: #f0f4f7;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.mission-values-section .content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mission-values-section h2 {
+  font-size: 24px;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.mission-values-section p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}

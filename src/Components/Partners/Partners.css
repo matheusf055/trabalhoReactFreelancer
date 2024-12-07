@@ -1,0 +1,16 @@
+.partners-section {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f8f9fa;
+}
+
+.partners-section h2 {
+  font-size: 24px;
+  color: #003366;
+  margin-bottom: 30px;
+}
+
+.partners-logos img {
+  max-width: 150px;
+  margin: 0 25px;
+}
